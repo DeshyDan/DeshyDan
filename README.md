@@ -27,5 +27,3 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="45" height="45" alt="CSS3" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="45" height="45" alt="Figma" /></a>
 </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeshyDan&show_icons=true&locale=en&layout=compact&theme=radical"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DeshyDan&show_icons=true&theme=radical"/>
