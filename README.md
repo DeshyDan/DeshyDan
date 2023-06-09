@@ -11,7 +11,6 @@
 - 🔭 I’m currently **working on my personal website**
 - 🌱 I’m currently **learning javascript and react native**
 - ⚡ Fun fact: **I love coffee**
-- 📫 Chit-Chat about coffee: **deshy733@gmail.com**
 
 
 
