@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="20%" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
 
 - 🔭 I’m currently **working on my personal website**
-- 🌱 I’m currently **reading a lot of stuff**
+- 🌱 I’m currently **studying**
 - ⚡ Fun fact: **I love coffee**
 
 ### Skills and Tools
