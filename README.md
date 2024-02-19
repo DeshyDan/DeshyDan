@@ -4,7 +4,8 @@
 
 <h3 align="center">UCT Computer Science and Business Computing Student</h3>
 
-<p align="center">Tech enthusiast, coffee connoisseur, and student by day, guitar-slinging rockstar by night.</p>
+
+<p align="center">Ex Amazon Software Development Engineer | Nerd | Coffee connoisseur | Guitarist </p>
 <p align="center">Follow for epic code commits and eyebrow-raising guitar solos.</p>
 
 ---
